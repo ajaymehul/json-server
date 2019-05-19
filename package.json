@@ -1,0 +1,26 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Host JSON objects with minimal effort and no code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaymehul/json-server.git"
+  },
+  "keywords": [
+    "json",
+    "server",
+    "host",
+    "testing",
+    "javascript"
+  ],
+  "author": "Ajay Mehul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaymehul/json-server/issues"
+  },
+  "homepage": "https://github.com/ajaymehul/json-server#readme"
+}
