@@ -1,6 +1,6 @@
 {
   "name": "mini-json-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Host JSON objects with minimal effort and no code",
   "main": "index.js",
   "bin": {
