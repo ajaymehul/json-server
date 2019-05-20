@@ -1,0 +1,14 @@
+{
+  "collection" : {
+    "/greeting" : {
+      "payload" : "Hey turtle",
+      "extra" : "Bye turtle",
+      "more" : "turtle rock"
+    },
+    "/lunch" : {
+      "chinese" : "orange chicken",
+      "indian" : "chickien Tikka",
+      "american" : "cheeseburger"
+    }
+  }
+}

@@ -1,8 +1,11 @@
 {
-  "name": "json-server",
+  "name": "mini-json-server",
   "version": "1.0.0",
   "description": "Host JSON objects with minimal effort and no code",
   "main": "index.js",
+  "bin": {
+    "json-server": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/ajaymehul/json-server/issues"
   },
-  "homepage": "https://github.com/ajaymehul/json-server#readme"
+  "homepage": "https://github.com/ajaymehul/json-server#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
