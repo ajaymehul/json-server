@@ -4,6 +4,7 @@ const express = require('express');
 
 
 module.exports = (jsonPath) => {
+  console.log('\x1b]37m\x1b[42m%s\x1b[0m','hosting JSON...\n');
   const app = express();
   fs.readFile(jsonPath, (err,data) => {
     if(err) throw err;

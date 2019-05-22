@@ -1,0 +1,15 @@
+{ 
+  "port" : 5000,
+  "collection" : { 
+    "/route1" : {
+      "key1" : "value1",
+      "key2" : "value2",
+      "key3" : "value3"
+    },
+    "/route2" : {
+      "key1" : "value1",
+      "key2" : "value2",
+      "key3" : "value3"
+    }
+  }
+}

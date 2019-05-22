@@ -4,7 +4,7 @@
   "description": "Host JSON objects with minimal effort and no code",
   "main": "index.js",
   "bin": {
-    "json-server": "./index.js"
+    "mini-json-server": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
